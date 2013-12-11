@@ -1,0 +1,13 @@
+{
+  "name": "a2tar-ssl",
+  "version": "0.1.0",
+  "summary": "SSL certificates management",
+  "author": "a2tar",
+  "description": "",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "https://github.com/a2tar/ssl.git",
+  "project_page": "https://github.com/a2tar/ssl",
+  "license": "MIT License"
+}
